@@ -10,9 +10,6 @@ public class GetStopInfo {
 	// 数据库的用户名与密码
 	static final String USER = "root";
 	static final String PASSWORD = "syf0313";
-	
-	// 数据源路径
-	static final String PATH = "E:\\GraduationProject\\ViFiExport\\Static\\route";
 
 	public static void main(String args[]) {
 		Connection conn = null;
